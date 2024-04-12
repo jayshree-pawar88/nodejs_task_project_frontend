@@ -1,0 +1,28 @@
+.flexSection{
+    margin: 0px 200px;
+}
+input{
+    width: 250px;
+}
+.buttonWrapper{
+    position: absolute;
+    bottom: 30%;
+    right: 20%;
+
+}
+.cancleButton{
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    margin: 20px;
+}
+.saveButton{
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    margin: 20px;
+    background-color: rgb(70, 38, 100);
+    color: white;
+
+}
+
